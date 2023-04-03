@@ -6,6 +6,7 @@
 * Pouria Dana
 *******************************/
 #include <stdio.h>
+/*Length of array to be used to store integers*/
 #define ARR_LEN 5
 
 void selection_sort(int [], int );
